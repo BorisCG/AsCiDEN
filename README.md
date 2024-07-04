@@ -24,7 +24,11 @@ El curso consta de las siguientes secciones:
 2. Laboratorios: Clases prácticas, enfocadas en aplicaciones de código
 3. Mini tareas: Con el objetivo de aprender a usar las herramientas enseñadas, habrán (x) mini tareas, las cuales se estima tengan 1-2 horas de dedicación.
 4. Proyecto final: A partir de la clase (y) los alumnos deberán seleccionar un proyecto para trabajar. En caso de que los alumnos propongan un proyecto, este será sujeto a evaluación de los docentes.
-5. Evaluaciones: La distribución de evaluaciones es de la siguiente manera:
+
+Evaluaciones
+============
+
+La distribución de evaluaciones es de la siguiente manera:
    - Mini tareas: 40%
    - Proyecto: 60%
 
